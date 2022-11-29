@@ -1,0 +1,3 @@
+interface ReqUser {
+	username: string;
+}
